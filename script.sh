@@ -1,0 +1,2 @@
+clear
+echo "WELL COME TO SHELL SCRIPTING"
